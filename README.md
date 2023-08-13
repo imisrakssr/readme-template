@@ -123,8 +123,8 @@ http://www.israksisir.com
 
 ### image syntax
 
-<!-- ![profile]("G:\Full Stack Development\Class 55 GitHub using GitBash\Me.JPG") -->
-<img src="Me.JPG" width=100; title="profile image"/>
+<!-- ![profile]("Me.JPG") -->
+<img src="./images/Me.JPG" width=100; title="profile image"/>
 
 😊
 
