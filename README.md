@@ -124,7 +124,7 @@ http://www.israksisir.com
 ### image syntax
 
 <!-- ![profile]("Me.JPG") -->
-<img src="./images/Me.JPG" width=100; title="profile image"/>
+<img src="./images/Me.jpg" width=100; title="profile image"/>
 
 😊
 
